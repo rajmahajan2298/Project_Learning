@@ -1,0 +1,8 @@
+Data Analysis in Hospility Domain -
+
+We are using a imaginary company name Atliq Grands
+This company is hotel chain which operates in 
+various cities in India
+They have hotel in (Delhi, BLR, HYD, BOM)
+
+
